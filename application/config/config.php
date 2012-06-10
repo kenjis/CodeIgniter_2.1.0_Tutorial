@@ -1,5 +1,8 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+// set default charset
+ini_set('default_charset', 'UTF-8');
+
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
